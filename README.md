@@ -2,10 +2,10 @@
 # Learn Angular
 
 <!-- ![Logo](./assets/angular.svg) -->
-![npm](https://img.shields.io/npm/dw/learn-angular)
+<!-- ![npm](https://img.shields.io/npm/dw/learn-angular)
 ![npm](https://img.shields.io/npm/dm/learn-angular)
 ![npm](https://img.shields.io/npm/dy/learn-angular)
-![npm](https://img.shields.io/npm/dt/learn-angular)
+![npm](https://img.shields.io/npm/dt/learn-angular) -->
 
 ## Contents
 

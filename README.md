@@ -1,14 +1,5 @@
-
-# Learn Angular
-
-<!-- ![Logo](./assets/angular.svg) -->
-<!-- ![Logo](./assets/download%20(1).png) -->
 ![Logo](./assets/angular9826.logowik.com.webp)
-<!-- ![Logo](./assets/images.png) -->
-<!-- ![npm](https://img.shields.io/npm/dw/learn-angular)
-![npm](https://img.shields.io/npm/dm/learn-angular)
-![npm](https://img.shields.io/npm/dy/learn-angular)
-![npm](https://img.shields.io/npm/dt/learn-angular) -->
+
 
 ## Contents
 
